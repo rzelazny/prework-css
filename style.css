@@ -1,39 +1,19 @@
 <head>>
   <style>
 
-    body {
-      background-color: brown;
+    h1, h2{
+        text-align: center;
     }
 
-    h1 {
-      color: white;
-      text-decoration: underline;
-    }
-
-    h2, h3, p {
-      color: yellow;
-    }
-
-    p, li {
-      font-size: 24px;
-      font-family: cursive;
-    }
-
-    .almond {
-      color: white;
-    }
-
-    .butterfinger {
-      color: orange;
-    }
-
-    .ferrero {
-      color: gold;
-    }
-
-    .all {
+    .styledFont {
       color: blue;
+      font-size: 20px;
     }
 
+    #styledImage{
+        border-width: 20px; 
+        border-style: dashed;
+        color: red;
+    }
   </style>
 </head>
